@@ -1,0 +1,2 @@
+# static
+for static links
